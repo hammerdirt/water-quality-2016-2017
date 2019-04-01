@@ -1,13 +1,11 @@
 ### Water quality testing results 2016-2017
 
-This repo contains the Jupyter notebooks, data and charts from water our quallity testing project with the Hackuarium. This repo is a build from the hammerdirt/notes repo. That folder has been trashed only a local copy exists.
+This repo contains the Jupyter notebooks, data and charts from water our quality testing project with the Hackuarium. This repo is a build from the hammerdirt/notes repo. That folder has been trashed only a local copy exists.
 
 #### The data:
-The original data is stored in two files - Data_2016.csv and Data_2017.csv. This data is in its original format, there are a few duplicate
-records and there is some formattiing to be done if you want to use it.
+The original data is stored in two files - Data_2016.csv and Data_2017.csv. This data is in its original format, there are a few duplicate records and there is some formattiing to be done if you want to use it.
 
-The data has been cleaned and stored in the JSON folder. Identifiers like colony colors, week dates or week numbers and any information we
-needed to index the results is stored in the utililties folders as JSON objects.
+The data has been cleaned and stored in the JSON folder. Identifiers like colony colors, week dates or week numbers and any information we needed to index the results is stored in the utililties folders as JSON objects.
 
 #### The workbooks:
 
@@ -19,8 +17,7 @@ you will overwrite the original.
 
 There are three workbooks : 
 
-1 - Preparing the data: we go through all the gymnastics necesary to  make JSON output for other applications. Our end-use is
-is a web based app that has the same output as the notebook.
+1 - Preparing the data: we go through all the gymnastics necesary to  make JSON output for other applications. Our end-use is a web based app that has the same output as the notebook.
 
 2- Output for hdhc: The JSON output is used to make the various charts
 
