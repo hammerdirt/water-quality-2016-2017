@@ -1,4 +1,4 @@
-### Water quality testting results 2016-2017
+### Water quality testing results 2016-2017
 
 This repo contains the Jupyter notebooks, data and charts from water our quallity testing project with the Hackuarium.
 
