@@ -1,6 +1,6 @@
 ### Water quality testing results 2016-2017
 
-This repo contains the Jupyter notebooks, data and charts from our water quality testing project with the Hackuarium. This repo is a build from the hammerdirt/notes repo. That no longer exists we maintain a local copy in our archives.
+This repo contains the Jupyter notebooks, data and charts from our water quality testing project with the Hackuarium. This repo is a build from the hammerdirt/notes repo. That folder no longer exists we maintain a local copy in our archives.
 
 #### The data:
 The original data is stored in two files - Data_2016.csv and Data_2017.csv. This data is in its original format, there are a few duplicate records and there is some formatting to be done if you want to use it.
