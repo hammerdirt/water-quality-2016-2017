@@ -3,7 +3,7 @@
 This repo contains the Jupyter notebooks, data and charts from water our quality testing project with the Hackuarium. This repo is a build from the hammerdirt/notes repo. That folder has been trashed only a local copy exists.
 
 #### The data:
-The original data is stored in two files - Data_2016.csv and Data_2017.csv. This data is in its original format, there are a few duplicate records and there is some formattiing to be done if you want to use it.
+The original data is stored in two files - Data_2016.csv and Data_2017.csv. This data is in its original format, there are a few duplicate records and there is some formatting to be done if you want to use it.
 
 The data has been cleaned and stored in the JSON folder. Identifiers like colony colors, week dates or week numbers and any information we needed to index the results is stored in the utililties folders as JSON objects.
 
