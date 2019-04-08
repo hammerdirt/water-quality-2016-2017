@@ -11,9 +11,7 @@ The data has been cleaned and stored in the JSON folder. Identifiers like colony
 
 If you clone this repo everything is local and will work just fine.
 
-ATTENTION: The file output is in the notebook, so if you change something without changing the filename or destination folder,
-you will overwrite the original.
-
+ATTENTION: Make sure to change the output file names to avoid overwriting the original output.
 
 There are three workbooks : 
 
