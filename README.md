@@ -17,7 +17,7 @@ There are three workbooks :
 
 1 - Preparing the data: we go through all the gymnastics necesary to  make JSON output for other applications. Our end-use is a web based app that has the same output as the notebook.
 
-2- Output for hdhc: The JSON output is used to make the various charts
+2- Output for hdch: The JSON output is used to make the various charts
 
 3- Micro-bar-chart: We tap into the original data to make barchart arrays of all the results per location per day.
 
